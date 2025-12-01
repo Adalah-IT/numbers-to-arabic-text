@@ -297,3 +297,5 @@ function convertToOrdinalWithoutAl(num, isFeminine, isAG) {
   return convertToOrdinal(num, isFeminine, isAG);
 }
 }
+
+export { tafqit };
