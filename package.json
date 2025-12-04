@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "description": "A JavaScript Arabic numbers to words tool.",
   "main": "tafqit.js",
+  "module": "tafqit.js",
+  "types": "tafqit.d.ts",
   "unpkg": "tafqit.js",
   "license": "MIT",
   "repository": {
